@@ -1,0 +1,22 @@
+{
+  "name": "hw24",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "npx cypress open"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kkatyazhukk/hw24.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kkatyazhukk/hw24/issues"
+  },
+  "homepage": "https://github.com/kkatyazhukk/hw24#readme",
+  "devDependencies": {
+    "cypress": "^9.6.0"
+  }
+}
